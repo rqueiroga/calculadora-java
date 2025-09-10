@@ -1,8 +1,0 @@
-* {
-    margin: 0;
-}
-
-.input ::before {
-    content: "Oi";
-    
-}
